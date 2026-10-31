@@ -5,6 +5,7 @@
 	<NationalPark rating="4.5">
 		<Name>Yosemite National Park</Name>
 		<Phone>209-372-0200</Phone>
+		<Phone>209-372-0201</Phone>
 		<Address NearestAirport="Fresno Yosemite Interational Airport">
 			<Number>577</Number>
 			<Street>P.O. Box</Street>
