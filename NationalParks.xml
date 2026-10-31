@@ -123,7 +123,7 @@
 	<!-- Yellowstone National Park -->
 	<NationalPark rating="3.2">
 		<Name>Yellowstone National Park</Name>
-		<Phone></Phone>
+		<Phone>209-372-0200</Phone>
 		<Address NearestAirport="Yellowstone Airport">
 			<Number>168</Number>
 			<Street>PO Box</Street>
