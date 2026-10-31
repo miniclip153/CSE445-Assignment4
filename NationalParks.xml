@@ -4,7 +4,7 @@
 <NationalParks xmlns="http://tempuri.org/XMLSchema.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://tempuri.org/XMLSchema.xsd NationalParks.xsd">
-	<NationalPark rating="4.5">
+	<NationalPark Rating="4.5">
 		<Name>Yosemite National Park</Name>
 		<Phone>209-372-0200</Phone>
 		<Phone>209-372-0201</Phone>
@@ -31,7 +31,7 @@
 	</NationalPark>
 
 	<!-- Pinnacles National Park -->
-	<NationalPark rating="2.5">
+	<NationalPark Rating="2.5">
 		<Name>Pinnacles National Park</Name>
 		<Phone>831-389-4486</Phone>
 		<Address NearestAirport="Monterey Regional Airport">
@@ -44,7 +44,7 @@
 	</NationalPark>
 	
 	<!-- Channel Islands National Park -->
-	<NationalPark rating="3.0">
+	<NationalPark Rating="3.0">
 		<Name>Channel Islands National Park</Name>
 		<Phone>805-658-5700</Phone>
 		<Address NearestAirport="Santa Barbara Airport">
@@ -58,7 +58,7 @@
 
 
 	<!-- Sequoia National Park -->
-	<NationalPark rating="4.0">
+	<NationalPark Rating="4.0">
 		<Name>Sequoia National Park</Name>
 		<Phone>760-786-2331</Phone>
 		<Address NearestAirport="Fresno Yosemite International Airport">
@@ -71,7 +71,7 @@
 	</NationalPark>
 
 	<!-- Death Valley National Park -->
-	<NationalPark rating="3.5">
+	<NationalPark Rating="3.5">
 		<Name>Death Valley National Park</Name>
 		<Phone>760-786-2331</Phone>
 		<Address NearestAirport="Harry Reid International Airport">
@@ -84,7 +84,7 @@
 	</NationalPark>
 
 	<!-- Joshua Tree National Park -->
-	<NationalPark rating="3.7">
+	<NationalPark Rating="3.7">
 		<Name>Joshua Tree National Park</Name>
 		<Phone>760-367-5500</Phone>
 		<Address NearestAirport="Palm Springs International Airport">
@@ -97,7 +97,7 @@
 	</NationalPark>
 
 	<!-- Lassen Volcanic National Park -->
-	<NationalPark rating="3.8">
+	<NationalPark Rating="3.8">
 		<Name>Lassen Volcanic National Park</Name>
 		<Phone>530-595-4444</Phone>
 		<Address NearestAirport="Redding Municipal Airport">
@@ -110,7 +110,7 @@
 	</NationalPark>
 
 	<!-- Redwood National Park -->
-	<NationalPark rating="2.9">
+	<NationalPark Rating="2.9">
 		<Name>Redwood National Park</Name>
 		<Phone>707-464-6101</Phone>
 		<Address NearestAirport="Arcata-Eureka Airport">
@@ -123,7 +123,7 @@
 	</NationalPark>
 
 	<!-- Yellowstone National Park -->
-	<NationalPark rating="3.2">
+	<NationalPark Rating="3.2">
 		<Name>Yellowstone National Park</Name>
 		<Phone>209-372-0200</Phone>
 		<Address NearestAirport="Yellowstone Airport">
