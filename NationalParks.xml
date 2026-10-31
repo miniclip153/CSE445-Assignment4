@@ -15,7 +15,7 @@
 	</NationalPark>
 
 	<!-- Kings Canyon National Park -->
-	<NationalPark rating="3.8">
+	<NationalPark>
 		<Name>Kings Canyon National Park</Name>
 		<Phone>559-565-3341</Phone>
 		<Address NearestAirport="Fresno Yosemite Interational Airport">
