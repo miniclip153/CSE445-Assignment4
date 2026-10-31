@@ -3,7 +3,7 @@
 <!-- Yosemite National Park -->
 <NationalParks xmlns="http://tempuri.org/XMLSchema.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://tempuri.org/XMLSchema.xsd https://raw.githubusercontent.com/miniclip153/CSE445-Assignment4/refs/heads/main/NationalParks.xsd">
+  xsi:schemaLocation="http://tempuri.org/XMLSchema.xsd NationalParks.xsd">
 	<NationalPark rating="4.5">
 		<Name>Yosemite National Park</Name>
 		<Phone>209-372-0200</Phone>
